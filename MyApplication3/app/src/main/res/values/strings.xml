@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Splash Screen</string>
+    <string name="dialog_title">Select Members</string>
+    <string name="ok_label">OK</string>
+    <string-array name="members_list">
+        <item>Member 1</item>
+        <item>Member 2</item>
+        <item>Member 3</item>
+        <item>Member 4</item>
+        <item>Member 5</item>
+        <item>Member 6</item>
+    </string-array>
+</resources>
